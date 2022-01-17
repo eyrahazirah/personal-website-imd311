@@ -1,0 +1,28 @@
+body 
+    {
+       background-color: wheat;
+       background-position-x: center;
+      
+    }
+a:link 
+    {
+       color: cadetblue;
+       background-color: coral;
+       text-decoration: none;
+       padding: 20px;
+    }
+a:visited
+    {
+        color: cornsilk;
+        background-color: rgb(185, 114, 47);
+        text-decoration: none;
+        padding: 20px;
+
+    }
+a:hover
+    {
+        background-color: rgb(110, 67, 26);
+
+
+    }
+     
